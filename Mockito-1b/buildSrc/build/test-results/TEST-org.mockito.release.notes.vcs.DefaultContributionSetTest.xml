@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.mockito.release.notes.vcs.DefaultContributionSetTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-08-05T19:23:14" hostname="Linux" time="0.015">
+  <properties/>
+  <testcase name="empty contributions" classname="org.mockito.release.notes.vcs.DefaultContributionSetTest" time="0.005"/>
+  <testcase name="contains referenced tickets" classname="org.mockito.release.notes.vcs.DefaultContributionSetTest" time="0.001"/>
+  <testcase name="many contributions" classname="org.mockito.release.notes.vcs.DefaultContributionSetTest" time="0.001"/>
+  <testcase name="ignores specific commits" classname="org.mockito.release.notes.vcs.DefaultContributionSetTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

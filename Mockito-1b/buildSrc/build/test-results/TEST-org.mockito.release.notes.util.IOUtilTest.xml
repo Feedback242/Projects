@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.mockito.release.notes.util.IOUtilTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-08-05T19:23:14" hostname="Linux" time="0.018">
+  <properties/>
+  <testcase name="reads stream" classname="org.mockito.release.notes.util.IOUtilTest" time="0.009"/>
+  <testcase name="closes streams" classname="org.mockito.release.notes.util.IOUtilTest" time="0.004"/>
+  <testcase name="writes file" classname="org.mockito.release.notes.util.IOUtilTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

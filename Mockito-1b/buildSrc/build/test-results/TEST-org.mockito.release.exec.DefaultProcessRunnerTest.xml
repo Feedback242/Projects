@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.mockito.release.exec.DefaultProcessRunnerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-05T19:23:14" hostname="Linux" time="0.015">
+  <properties/>
+  <testcase name="runs processes" classname="org.mockito.release.exec.DefaultProcessRunnerTest" time="0.015"/>
+  <system-out><![CDATA[12:23:14.114 [Test worker] INFO  o.m.r.exec.DefaultProcessRunner - Executing command: [ls]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
